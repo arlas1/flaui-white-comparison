@@ -89,7 +89,7 @@ public static class HelperActions
                 break;
             }
 
-            Thread.Sleep(500);
+            Thread.Sleep(200);
         }
 
         if (label == null)
@@ -105,7 +105,7 @@ public static class HelperActions
             if (textBoxElement != null)
                 return textBoxElement.AsTextBox();
 
-            Thread.Sleep(500);
+            Thread.Sleep(200);
         }
 
         return null;

@@ -34,7 +34,7 @@ public static class HelperActions
                 // Element has not been found yet.
             }
 
-            Thread.Sleep(500);
+            Thread.Sleep(200);
         }
 
         return null;
@@ -74,7 +74,7 @@ public static class HelperActions
                 // ComboBox has not been found yet.
             }
             
-            Thread.Sleep(500);
+            Thread.Sleep(200);
         }
         
         return null;
