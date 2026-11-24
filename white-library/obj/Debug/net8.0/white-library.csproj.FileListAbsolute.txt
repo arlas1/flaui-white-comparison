@@ -1,0 +1,11 @@
+C:\Users\lasim\RiderProjects\diplom\white-library\bin\Debug\net8.0\white-library.deps.json
+C:\Users\lasim\RiderProjects\diplom\white-library\bin\Debug\net8.0\white-library.dll
+C:\Users\lasim\RiderProjects\diplom\white-library\bin\Debug\net8.0\white-library.pdb
+C:\Users\lasim\RiderProjects\diplom\white-library\obj\Debug\net8.0\white-library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasim\RiderProjects\diplom\white-library\obj\Debug\net8.0\white-library.AssemblyInfoInputs.cache
+C:\Users\lasim\RiderProjects\diplom\white-library\obj\Debug\net8.0\white-library.AssemblyInfo.cs
+C:\Users\lasim\RiderProjects\diplom\white-library\obj\Debug\net8.0\white-library.csproj.CoreCompileInputs.cache
+C:\Users\lasim\RiderProjects\diplom\white-library\obj\Debug\net8.0\white-library.dll
+C:\Users\lasim\RiderProjects\diplom\white-library\obj\Debug\net8.0\refint\white-library.dll
+C:\Users\lasim\RiderProjects\diplom\white-library\obj\Debug\net8.0\white-library.pdb
+C:\Users\lasim\RiderProjects\diplom\white-library\obj\Debug\net8.0\ref\white-library.dll
